@@ -2,7 +2,8 @@
 
 The repository contains the implementation of EMNLP-2019 submission : 'A deep-learning framework to detect sarcasm targets'.
 
-**Data Set**
+**Data Set**:
+
 Original Dataset : https://github.com/Pranav-Goel/Sarcasm-Target-Detection
 
 The **dataset.csv** file contains snippets(book_text) and probable targets.
