@@ -5,7 +5,6 @@ The repository contains the implementation of EMNLP-2019 submission : 'A deep-le
 # Data Set
 Original Dataset : https://github.com/Pranav-Goel/Sarcasm-Target-Detection
 
-# Sarcasm_Target_Detection
 The **dataset.csv** file contains snippets(book_text) and probable targets.
 It is then preprocessed and whose output is present in **pre_processed_dataset.csv** file which contains 4 columns:
 1. left_context - set of words to the left of the probable sarcasm target
