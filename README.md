@@ -1,4 +1,4 @@
-# sarcasm-target-detection
+# Sarcasm-Target-Detection
 
 The repository contains the implementation of EMNLP-2019 submission : 'A deep-learning framework to detect sarcasm targets'.
 
